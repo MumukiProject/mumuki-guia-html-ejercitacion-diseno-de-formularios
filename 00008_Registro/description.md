@@ -1,1 +1,1 @@
-> Replicá el diseño de [esta página](https://dribbble.com/shots/5499795-Sign-Up/attachments) y cargá el repositorio con el corrrespondiente archivo `.html`.corrrespondiente archivo `.html`. 
+> Replicá el diseño de [esta página](https://dribbble.com/shots/5499795-Sign-Up/attachments) y cargá el repositorio con el corrrespondiente archivo `.html`.
